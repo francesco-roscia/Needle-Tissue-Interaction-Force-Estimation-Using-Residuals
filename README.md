@@ -10,4 +10,9 @@ The aim of the project is a sensorless extimation of the exerted force between a
 
 Implementation: the algorithm has been implemented in Matlab. Measured joint torques and configurations have to be provided in a .dat file, and opened in data.m. A fine tuning of the initial covariance matrix for the RLS method is required (modify Psi0 in layerDetection.m).
 
-<img width="80%" height="80%" alt="portfolio_view" src="https://user-images.githubusercontent.com/62264717/83292181-f2bac600-a1e9-11ea-80f6-b56af0c4b36a.png">
+
+<p align="center">
+	<img width="80%" height="80%" alt="portfolio_view" src="https://user-images.githubusercontent.com/62264717/83292181-f2bac600-a1e9-11ea-80f6-b56af0c4b36a.png">
+</p>
+
+
