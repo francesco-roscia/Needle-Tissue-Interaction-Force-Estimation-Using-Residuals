@@ -1,5 +1,5 @@
-# Medical Robotics Couse Project
-## Needle-Tissue Interaction Force Estimation Using Residuals
+# Needle-Tissue Interaction Force Estimation Using Residuals
+## Medical Robotics Couse Project
 Team: Roggiolani, G., Roscia, F., & Sodano, M. (2020). 
 Supervisor: Prof. Marilena VENDITTELLI
 
