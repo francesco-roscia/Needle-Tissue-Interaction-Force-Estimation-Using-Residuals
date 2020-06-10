@@ -16,3 +16,13 @@ Implementation: the algorithm has been implemented in Matlab. Measured joint tor
 </p>
 
 
+### References
+[1] Siciliano, B., Sciavicco, L., Villani, L., & Oriolo, G. (2010). "Robotics: modelling, planning and control". Springer Science & Business Media.
+
+[2] Evangelista, D., Iodice, F., Perica, A., Cefalo, M., Magrini, E., Anzidei, M., Vendittelli, M. (2016) "Residual-based interaction force estimation for haptic feedback in teleoperated needle insertion". 6th Joint Workshop on New Technologies for Computer/Robot Assisted Surgery (CRAS 2016).
+
+[3] Mattone, R., & De Luca, A. (2003). "Fault detection and isolation in robot manipulators". IFATIS, IRAR002R01.
+
+[4] De Luca, A., & Mattone, R. (2005). "Sensorless robot collision detection and hybrid force/motion control". In Proceedings of the 2005 IEEE international conference on robotics and automation (pp. 999-1004). IEEE.
+
+[5] Cacciotti, N., Cifonelli, A., Gaz, C., Paduano, V., Russo, A. V., Vendittelli, M. (2018). "Enhancing force feedback in teleoperated needle insertion through on-line identification of the needle-tissue interaction parameters". IEEE RAS and EMBS International Conference on Biomedical Robotics and Biomechatronics (BIOROB).
